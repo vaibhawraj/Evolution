@@ -1,0 +1,59 @@
+[Project]
+FileName=Project_PAB.dev
+Name=Project1
+UnitCount=1
+Type=0
+Ver=1
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=Project_PAB_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=-lopengl32 -lglu32 -lwinmm_@@_
+IsCpp=1
+Icon=
+ExeOutput=
+ObjectOutput=
+OverrideOutput=0
+OverrideOutputName=Project_PAB.exe
+HostApplication=
+Folders=
+CommandLine=
+UseCustomMakefile=0
+CustomMakefile=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000000000000
+
+[VersionInfo]
+Major=0
+Minor=1
+Release=1
+Build=1
+LanguageID=16393
+CharsetID=1252
+CompanyName=Veeraj Programming
+FileVersion=Version 0.0.1
+FileDescription=Developed using the Dev-C++ IDE
+InternalName=Project PAB
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=Evolution
+ProductVersion=
+AutoIncBuildNr=0
+
+[Unit1]
+FileName=main.cpp
+CompileCpp=1
+Folder=Project1
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+

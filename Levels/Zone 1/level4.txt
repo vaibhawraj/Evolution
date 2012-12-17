@@ -1,0 +1,7 @@
+TTT   SSS   TTT
+TTT         TTT
+  SLLL   LLLS  
+    SLL LLS    
+  SLLL   LLLS  
+TTT         TTT
+TTT         TTT
